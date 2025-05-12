@@ -26,13 +26,7 @@ Shuttle has out-of-the-box support for Actix Web. Follow these steps to host you
 cargo install cargo-shuttle
 ```
 
-4. Create your project on the Shuttle platform:
-
-```sh
-shuttle project start
-```
-
-5. Deploy! 🚀
+4. Deploy! 🚀
 
 ```sh
 shuttle deploy
